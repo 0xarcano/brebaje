@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Brebaje",
   tagline: "Zero-Knowledge Trusted Setup Ceremony Toolkit",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.svg",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -22,7 +22,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "NicoSerranoP", // Usually your GitHub org/user name.
+  organizationName: "P0tion tools", // Usually your GitHub org/user name.
   projectName: "brebaje", // Usually your repo name.
 
   onBrokenLinks: "warn",
@@ -44,7 +44,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/NicoSerranoP/brebaje/tree/main/apps/website/",
+          editUrl: "https://github.com/p0tion-tools/brebaje/tree/main/apps/website/",
         },
         blog: {
           showReadingTime: true,
@@ -54,7 +54,7 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/NicoSerranoP/brebaje/tree/main/apps/website/",
+          editUrl: "https://github.com/p0tion-tools/brebaje/tree/main/apps/website/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -85,7 +85,7 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/NicoSerranoP/brebaje",
+          href: "https://github.com/p0tion-tools/brebaje",
           label: "GitHub",
           position: "right",
         },
@@ -124,7 +124,7 @@ const config: Config = {
             },
             {
               label: "GitHub Discussions",
-              href: "https://github.com/NicoSerranoP/brebaje/discussions",
+              href: "https://github.com/p0tion-tools/brebaje/discussions",
             },
           ],
         },
@@ -137,7 +137,7 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/NicoSerranoP/brebaje",
+              href: "https://github.com/p0tion-tools/brebaje",
             },
             {
               label: "Contributing",

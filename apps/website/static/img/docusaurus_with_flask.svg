@@ -2,14 +2,14 @@
   <defs>
     <path d="M4.883.09v1.08a1 1 0 01-1 1H1a1 1 0 01-1-1V.09h4.883z" id="a"/>
   </defs>
-  <g fill="#3ECC5F">
+  <g fill="#0079a8">
     <path d="M23 163c-7.4 0-14-4-17.3-10A20 20 0 003 163c0 11 9 20 20 20h20v-20H23zM164 183h9v-4h-8z"/>
     <path d="M183 53V43c0-11-9-20-20-20H73c-4-8-6-8-10 0-4-8-6-8-10 0-4-8-6-8-10 0-7-9-9-5-10.3 2.3-9-3-10.3-1.7-7.3 7.3-9 2-10 3-2.4 10.4-8 4-8 6 0 10-8 4-8 6 0 10-8 4-8 6 0 10-8 4-8 6 0 10-8 4-8 6 0 10-8 4-8 6 0 10-8 4-8 6 0 10-8 4-8 6 0 10-8 4-8 6 0 10-8 4-8 6 0 10-8 4-8 6 0 10-8 4-8 6 0 10 0 11 9 20 20 20h120c11 0 20-9 20-20"/>
   </g>
   <path fill="#FFF" d="M183 83l-70-4.3c-13.3-1.5-13.3-19.8 0-21.3l70-4.4"/>
   <use href="#h" x="60"/>
   <use href="#f" x="50"/>
-  <path d="M103 183h60c11 0 20-9 20-20V93h-60c-11 0-20 9-20 20v70z" fill="#FFFF50"/>
+  <path d="M103 183h60c11 0 20-9 20-20V93h-60c-11 0-20 9-20 20v70z" fill="#b3eaff"/>
   <g fill="none" stroke="#000" stroke-width="2" stroke-linecap="round">
     <path d="M63 53a1 1 0 10-20 0" stroke-width="5"/>
     <path d="M183 62.6c-5 0-5 10-10 10.7-5 0-5-10-10-10s-5 9-10 9-5-8.5-10-8.5-5 8-10 8-5-7.25-10-7.25-5 6.5-10 6.5" stroke-linecap="butt"/>
@@ -117,8 +117,12 @@
       <use href="#a" transform="translate(72.06 2.713)"/>
     </g>
   </g>
-  <g fill="#3ECC5F"/>
-  <g id="h" fill="#44D860">
+    <g transform="translate(120,100) scale(1)">
+    <path d="M29 6h-2V3h-6v3h-2c-0.55 0-1 0.45-1 1v7.17l-8.49 14.7c-0.85 1.48-0.34 3.36 1.14 4.21 0.48 0.28 1.02 0.42 1.57 0.42h22.56c0.55 0 1.09-0.14 1.57-0.42 1.48-0.85 1.99-2.73 1.14-4.21L30 14.17V7c0-0.55-0.45-1-1-1z" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M15 28h18l-6-10v-4h-6v4l-6 10z" fill="#00B7FF" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <g fill="#0079a8"/>
+  <g id="h" fill="#0079a8">
     <circle cx="123" cy="113" r="10"/>
     <circle cx="128" cy="104.3" r="2.4"/>
     <circle cx="131.7" cy="108" r="2.4"/>
@@ -126,16 +130,12 @@
     <circle cx="131.7" cy="118" r="2.4"/>
     <circle cx="128" cy="121.7" r="2.4"/>
   </g>
-  <g id="f" fill="#44D860">
+  <g id="f" fill="#0079a8">
     <circle cx="123" cy="163" r="20"/>
     <circle cx="113" cy="145.7" r="5"/>
     <circle cx="123" cy="143" r="5"/>
     <circle cx="133" cy="145.7" r="5"/>
     <circle cx="140.3" cy="153" r="5"/>
     <circle cx="143" cy="163" r="5"/>
-  </g>
-  <g transform="translate(120,110) scale(2)">
-    <path d="M29 6h-2V3h-6v3h-2c-0.55 0-1 0.45-1 1v7.17l-8.49 14.7c-0.85 1.48-0.34 3.36 1.14 4.21 0.48 0.28 1.02 0.42 1.57 0.42h22.56c0.55 0 1.09-0.14 1.57-0.42 1.48-0.85 1.99-2.73 1.14-4.21L30 14.17V7c0-0.55-0.45-1-1-1z" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
-    <path d="M15 28h18l-6-10v-4h-6v4l-6 10z" fill="#00B7FF" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
   </g>
 </svg>
